@@ -1,1 +1,1 @@
-# First_Tableau_Project
+This is my first tableau project. This project is based on Airbnb. Airbnb is an online marketplace that connects people who want to rent out their homes with those looking for accommodations. It allows hosts to list their properties (apartments, houses, rooms, etc.), and travelers can book them as an alternative to hotels. I have mentioned what each visualization refers to. Any kind of suggestion will be accepted.
